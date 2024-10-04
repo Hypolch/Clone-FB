@@ -14,6 +14,6 @@ git clone https://github.com/Hypolch/Clone-FB.git
 
 ls
 
-cd Access
+cd Clone-FB
 
 python Access.py
